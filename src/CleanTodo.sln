@@ -1,0 +1,15 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.0.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain/Domain.csproj", "{8DA65F3A-0C62-4D38-B1F7-E906B0F1CABC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application/Application.csproj", "{63ABF694-2328-4A56-A08A-5CF0DBD635F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure/Infrastructure.csproj", "{B19769B0-6053-4B70-8E19-463EEE6B9A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI/WebAPI.csproj", "{5F590A72-BD5C-49F0-A4C4-37681815097C}"
+EndProject
+Global
+EndGlobal
